@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- 头部 -->
-    <mt-header fixed title="黑马程序猿"></mt-header>
+    <mt-header fixed title="i-am-a-title"></mt-header>
     <!-- 主体部分 -->
 
     <!-- 底部 -->
